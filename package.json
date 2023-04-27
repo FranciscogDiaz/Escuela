@@ -1,0 +1,21 @@
+{
+  "name": "gestion-escuela",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node ./index.ts"
+  },
+  "keywords": [],
+  "author": "Franciso Diaz - Emiliano Salazar - Jorge Vergara",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.15.11",
+    "readline-sync": "^1.4.10",
+    "uuidv4": "^6.2.13"
+  },
+  "devDependencies": {
+    "@types/readline-sync": "^1.4.4"
+  }
+}
