@@ -1,0 +1,85 @@
+[
+  {
+    "nombre": "Emiliano",
+    "apellido": "Salazar",
+    "dni": 31104967,
+    "idLegajo": "980fed45-e",
+    "materias": [
+      "Matematica",
+      "Ingles"
+    ],
+    "notas": [
+      8,
+      9,
+      8
+    ]
+  },
+  {
+    "nombre": "Francisco",
+    "apellido": "Diaz",
+    "dni": 42580420,
+    "idLegajo": "36093c54-9",
+    "materias": [
+      "Sociales",
+      "Naturales"
+    ],
+    "notas": [
+      8,
+      9,
+      8,
+      6,
+      8,
+      8
+    ]
+  },
+  {
+    "nombre": "Jorge",
+    "apellido": "Vergara",
+    "dni": 30250630,
+    "idLegajo": "3301d0b9-1",
+    "materias": [
+      "Matematica",
+      "Sociales",
+      "Naturales"
+    ],
+    "notas": [
+      7,
+      7,
+      5,
+      7,
+      7,
+      7,
+      7,
+      7,
+      4
+    ]
+  },
+  {
+    "nombre": "Juan",
+    "apellido": "Perez",
+    "dni": 35645259,
+    "idLegajo": "760f72a7-1",
+    "materias": [
+      "Ingles"
+    ],
+    "notas": []
+  },
+  {
+    "nombre": "Luciano",
+    "apellido": "Robles",
+    "dni": 44520875,
+    "idLegajo": "47594c9c-d",
+    "materias": [
+      "Sociales",
+      "Naturales"
+    ],
+    "notas": [
+      5,
+      4,
+      6,
+      4,
+      5,
+      6
+    ]
+  }
+]

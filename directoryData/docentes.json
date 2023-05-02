@@ -1,0 +1,29 @@
+[
+  {
+    "nombre": "Maria",
+    "apellido": "Retes",
+    "dni": 22563258,
+    "idLegajo": "ef1aa26c-5",
+    "materias": [
+      "Matematica"
+    ]
+  },
+  {
+    "nombre": "Antonieta",
+    "apellido": "Miguelez",
+    "dni": 26821410,
+    "idLegajo": "da328c02-1",
+    "materias": [
+      "Sociales"
+    ]
+  },
+  {
+    "nombre": "Luciana",
+    "apellido": "Buendia",
+    "dni": 26854120,
+    "idLegajo": "bb508110-2",
+    "materias": [
+      "Naturales"
+    ]
+  }
+]
